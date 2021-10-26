@@ -1,0 +1,4 @@
+#ifndef CPL_VALUEVISITOR_HPP
+#define CPL_VALUEVISITOR_HPP
+
+#endif
